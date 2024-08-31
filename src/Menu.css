@@ -1,0 +1,23 @@
+
+.Menu{
+}
+
+.Menu-nav{
+    border:1px solid rgba(0,0,0,0.1);
+}
+
+.Menu-item{
+    color: #495057 !important;
+    background-color: white;
+    border-color: #dee2e6 #dee2e6 #fff;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+.Menu-item-active{
+    color: white !important;
+    background-color: var(--bs-purple) !important;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+
+
